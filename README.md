@@ -61,7 +61,7 @@ Each binary also has its own signature (`server_sanctuary-x86_64-linux-gnu.minis
 ## Licences
 
 Free needs no key and runs 2 servers per machine. Keys for more servers and the Pro features are
-at https://buy.polar.sh/polar_cl_4XRKscuORd3FVcX10BSYWjPDeL9ffNwIgzMmn4Paoej.
+at https://buy.polar.sh/polar_cl_F0kOFDoRjx7pKEZgTxLe0WZ0VlNEDS1MqiqPF0yNdQF.
 
 Terms: https://tossbaws.github.io/chirhocode-site/terms/
 
